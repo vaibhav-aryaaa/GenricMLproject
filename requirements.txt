@@ -9,4 +9,5 @@ xgboost
 dill
 flask
 requests
+awscli
 # -e .
